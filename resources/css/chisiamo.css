@@ -1,0 +1,55 @@
+.bgColorBlue{
+   background-color:#0a1d29; 
+}
+.userCard{
+	color:#50C5B7;
+    width: 350px;
+    border-radius: 10px;
+    background-color: #20455a;
+    
+    box-shadow:  
+             -5px -5px 15px #50C5B7;
+    border: 2px solid #FEEBA7;
+}
+.instagramPurple{
+    color: #F502BD;
+}
+
+.neo-button {
+    width: 40px;
+    height: 40px;
+    outline: 0 !important;
+    cursor: pointer;
+    color: #fff;
+    font-size: 15px;
+    border: none;
+    margin-right: 10px;
+    border-radius: 50%;
+    background: linear-gradient(145deg, #ffffff, #FEEBA7);
+   
+}
+
+.num{
+	
+	color:#eee !important;
+}
+
+.line{
+   
+	color:#fff;
+}
+
+.neo-button:active {
+    border-radius: 50%;
+    background: #FEEBA7;
+    /* box-shadow:  18px 18px 24px #FEEBA7, 
+             -18px -18px 24px #50C5B7; */
+}
+
+
+
+.fa-linkedin {
+    color: #41a196
+}
+
+

@@ -1,0 +1,35 @@
+/* footer */
+.text-inst{
+    color: rgb(237, 222, 164)
+  }
+.text-sf{
+   color: rgb(237, 222, 164);
+}
+
+
+  .logo-custom-foot{
+    height: 140px;
+    width: 200px;
+  }
+
+
+  .custom-color-f{
+    background-color:  rgb(21, 50, 67) !important;
+    color: rgb(237, 222, 164) !important;
+  }
+
+  
+  .logo-custom{
+    height: 60px;
+    width: 90px;
+  }
+
+  .lunghezza{
+    width: 100%;
+  }
+
+  .bordoF{
+    border-top: rgb(21, 50, 67)!important;
+    border-bottom: rgb(21, 50, 67)!important;
+  }
+  /* footer fine */

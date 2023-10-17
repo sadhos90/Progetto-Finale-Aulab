@@ -1,0 +1,35 @@
+header { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; font-family: 'Overpass', sans-serif; letter-spacing: 0px; font-size: 17px; color: #8d8f90; font-weight: 400; line-height: 32px;  }
+p { margin: 0 0 20px; line-height: 1.7; }
+.header-writers{ color: #25292a; margin: 0px 0px 10px 0px; font-family: 'Overpass', sans-serif; font-weight: 700; letter-spacing: -1px; line-height: 1; }
+.w1 { font-size: 34px; }
+.w2 { font-size: 28px; line-height: 38px; }
+.w3 { font-size: 22px; line-height: 32px; }
+.w4 { font-size: 20px; }
+.w5 { font-size: 17px; }
+.w6 { font-size: 12px; }
+ p { margin: 0 0 20px; line-height: 1.7; }
+p:last-child { margin: 0px; }
+a { text-decoration: none; color: #8d8f90; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; }
+a:focus, a:hover { text-decoration: none; color: #f85759; }
+p:last-child { margin: 0px; }
+a { text-decoration: none; color: #1F2029; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; transition: all 0.3s; }
+a:focus, a:hover { text-decoration: none; color: #FFEBA7; } */
+ .card-block{
+    background-color: #ffffff;
+}
+.card-borderY{
+    border: 2px solid #FFEBA7 ;
+}
+
+.logo-header{
+   width: 50vw;
+}
+
+
+.page-header { background: url('../../public/image/sfondofinale.png')  no-repeat; position: relative; filter:blur(0.5px); background-size: cover; background-position: center;}
+.page-caption { padding-top: 170px; padding-bottom: 174px; }
+.page-title { font-size: 46px; line-height: 1; color: #ffffff; font-weight: 600; text-align: center; }
+
+.card-section { position: relative; bottom: 60px; }
+.card-block { padding: 80px; }
+.section-title { margin-bottom: 60px; } 
